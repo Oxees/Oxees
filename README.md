@@ -5,7 +5,7 @@
 - 📫 How to reach me : by shouting loudly
 - ⚡ Fun fact: I love Belgian Beer :beer:
 
-**Tech Stack :** 
+# **Tech Stack :**
 
 ![techstack](https://github.com/Oxees/Oxees/assets/161740087/4944c107-aa4c-4895-a929-673895244c59)
 
